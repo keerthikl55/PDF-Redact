@@ -1,0 +1,12 @@
+# requirements.txt
+# fastapi==0.104.1
+# uvicorn[standard]==0.24.0
+# python-multipart==0.0.6
+# PyMuPDF==1.23.9
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+PyMuPDF==1.23.14
+python-magic==0.4.27
+gunicorn==21.2.0
